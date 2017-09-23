@@ -10,6 +10,7 @@ We rewrite the following apps directly on APK files without source code.
 It is hard for us to compare our rewriting with existing solutions without access to their code.
 We only demonstrate the feasibility of our own rewriting framework.
 
+** We are currently re-construct the code for rewriting framework **
 
 ## ICC Relay to Defend IAC/ICC Vulnerabilities 
 
