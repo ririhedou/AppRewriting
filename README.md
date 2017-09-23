@@ -8,7 +8,7 @@ DroisBench: https://github.com/secure-software-engineering/DroidBench
 
 ICC bench: https://github.com/fgwei/ICC-Bench
 
-**We are currently re-constructing the code for rewriting framework**
+**We are currently re-constructing the code of the rewriting framework**
 
 The tool will be available at:
 
