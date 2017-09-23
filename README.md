@@ -2,15 +2,14 @@
 
 We provide with rewritten apps, taint-flow analysis results for reproduction.
 
-The dummy repository provides supporting materials that are only used for the anonymous submission. 
-
-The full project, code, and author information are anonymized. 
-
 We rewrite the following apps directly on APK files without source code.
 It is hard for us to compare our rewriting with existing solutions without access to their code.
 We only demonstrate the feasibility of our own rewriting framework.
 
 **We are currently re-constructing the code for rewriting framework**
+
+The tool will be available at:
+
 
 ## ICC Relay to Defend IAC/ICC Vulnerabilities 
 
@@ -112,6 +111,10 @@ Thus, our approach complements with current dynamic permission with more in-dept
 Furthermore, our rewriting can terminate this sink at runtime. A security analyst can stop the invocation of this sink if the sink is very sensitive (e.g., sending messages to premium number). 
 
 <img src="https://github.com/ririhedou/AppRewriting/blob/master/Taintflow/screen2.png" height="500" width="300">
+
+## Disclaim
+
+This tool is only a research prototype for app rewriting for security.
 
 ## Conclusion
 
