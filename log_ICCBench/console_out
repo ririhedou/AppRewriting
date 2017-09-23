@@ -1,0 +1,50 @@
+02-24 14:03:08.767  2921  2921 E [rewrite]Log intent: Intent { act=amandroid.impliciticctest_action.testaction (has extras) }
+02-24 14:03:08.767  2921  2921 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:03:08.767  2921  2921 E [rewrite]Log intent: Action = amandroid.impliciticctest_action.testaction
+02-24 14:05:04.548  3069  3069 E [rewrite]Log intent: Intent { act=test cat=[amandroid.impliciticctest_Categories.testcategory1] (has extras) }
+02-24 14:05:04.548  3069  3069 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:05:04.548  3069  3069 E [rewrite]Log intent: Action = test
+02-24 14:08:59.684  3164  3164 E [rewrite]Log intent: Intent { dat=amandroid://fgwei:4444 (has extras) }
+02-24 14:08:59.684  3164  3164 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:08:59.684  3164  3164 E [rewrite]Log intent: Data = amandroid://fgwei:4444
+02-24 14:08:59.684  3164  3164 E [rewrite]Log intent: DataString = amandroid://fgwei:4444
+02-24 14:11:00.653  3313  3313 E [rewrite]Log intent: Intent { typ=test/type (has extras) }
+02-24 14:11:00.653  3313  3313 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:11:00.653  3313  3313 E [rewrite]Log intent: Type = test/type
+02-24 14:12:50.142  3444  3444 E [rewrite]Log intent: Intent { act=test_action cat=[test_category1,test_category2] dat=amandroid://fgwei:8888/abc/def typ=test/type (has extras) }
+02-24 14:12:50.142  3444  3444 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:12:50.142  3444  3444 E [rewrite]Log intent: Action = test_action
+02-24 14:12:50.142  3444  3444 E [rewrite]Log intent: Type = test/type
+02-24 14:12:50.142  3444  3444 E [rewrite]Log intent: Data = amandroid://fgwei:8888/abc/def
+02-24 14:12:50.142  3444  3444 E [rewrite]Log intent: DataString = amandroid://fgwei:8888/abc/def
+02-24 14:12:50.289  3444  3444 E [rewrite]Log intent: Intent { act=test_action2 cat=[test_category3,test_category4] dat=amandroid://fgwei:8888/xxx/xxx.com typ=test/type (has extras) }
+02-24 14:12:50.289  3444  3444 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:12:50.289  3444  3444 E [rewrite]Log intent: Action = test_action2
+02-24 14:12:50.289  3444  3444 E [rewrite]Log intent: Type = test/type
+02-24 14:12:50.289  3444  3444 E [rewrite]Log intent: Data = amandroid://fgwei:8888/xxx/xxx.com
+02-24 14:12:50.289  3444  3444 E [rewrite]Log intent: DataString = amandroid://fgwei:8888/xxx/xxx.com
+02-24 14:14:36.599  3540  3540 E [rewrite]Log intent: Intent { act=test_action cat=[test_category1,test_category2] dat=amandroid://fgwei:8888/abc/def typ=test/type (has extras) }
+02-24 14:14:36.599  3540  3540 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:14:36.599  3540  3540 E [rewrite]Log intent: Action = test_action
+02-24 14:14:36.599  3540  3540 E [rewrite]Log intent: Type = test/type
+02-24 14:14:36.599  3540  3540 E [rewrite]Log intent: Data = amandroid://fgwei:8888/abc/def
+02-24 14:14:36.599  3540  3540 E [rewrite]Log intent: DataString = amandroid://fgwei:8888/abc/def
+02-24 14:14:41.718  3562  3562 E [rewrite]Log intent: Intent { act=test_action2 cat=[test_category3,test_category4] dat=amandroid://fgwei:8888/xxx/xxx.com typ=test/type (has extras) }
+02-24 14:14:41.718  3562  3562 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:14:41.718  3562  3562 E [rewrite]Log intent: Action = test_action2
+02-24 14:14:41.718  3562  3562 E [rewrite]Log intent: Type = test/type
+02-24 14:14:41.718  3562  3562 E [rewrite]Log intent: Data = amandroid://fgwei:8888/xxx/xxx.com
+02-24 14:14:41.718  3562  3562 E [rewrite]Log intent: DataString = amandroid://fgwei:8888/xxx/xxx.com
+02-24 14:16:09.039  3694  3694 E [rewrite]Log intent: Intent { act=amandroid.impliciticctest_action.testaction (has extras) }
+02-24 14:16:09.039  3694  3694 E [rewrite]Log intent: Bundle[{data=noSrc}]
+02-24 14:16:09.039  3694  3694 E [rewrite]Log intent: Action = amandroid.impliciticctest_action.testaction
+02-24 14:18:14.671  3791  3791 E [rewrite]Log intent: Intent { act=amandroid.impliciticctest_action.testaction (has extras) }
+02-24 14:18:14.671  3791  3791 E [rewrite]Log intent: Bundle[{data=null}]
+02-24 14:18:14.671  3791  3791 E [rewrite]Log intent: Action = amandroid.impliciticctest_action.testaction
+02-24 14:19:13.132  3959  3959 E [rewrite]Log intent: Intent { act=com.fgwei (has extras) }
+02-24 14:19:13.132  3959  3959 E [rewrite]Log intent: Bundle[{id=null}]
+02-24 14:19:13.132  3959  3959 E [rewrite]Log intent: Action = com.fgwei
+02-24 14:20:40.823  4208  4208 E [rewrite]Log intent: Intent { act=com.ksu (has extras) }
+02-24 14:20:40.823  4208  4208 E [rewrite]Log intent: Bundle[{id=null}]
+02-24 14:20:40.823  4208  4208 E [rewrite]Log intent: Action = com.ksu
+

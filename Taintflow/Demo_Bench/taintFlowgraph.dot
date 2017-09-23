@@ -1,0 +1,11 @@
+digraph g{ 
+ 0[ label = "<de.ecspride.Button1: void sendMessage(android.view.View)>  ##  8  ##  virtualinvoke $r4.<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)>(+49, null, $r2, null, null)" ];
+1[ label = "<de.ecspride.Button1: void onCreate(android.os.Bundle)>  ##  6  ##  $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>()" ];
+	 1 ->  2;
+2[ label = "<de.ecspride.Button1: void onCreate(android.os.Bundle)>  ##  7  ##  <de.ecspride.Button1: java.lang.String imei> = $r4" ];
+	 2 ->  3;
+3[ label = "<dummyMainClass: void dummyMainMethod(java.lang.String[])>  ##  11  ##  virtualinvoke $r1.<de.ecspride.Button1: void sendMessage(android.view.View)>(null)" ];
+	 3 ->  4;
+4[ label = "<de.ecspride.Button1: void sendMessage(android.view.View)>  ##  7  ##  $r2 = <de.ecspride.Button1: java.lang.String imei>" ];
+	 4 ->  0;
+}
