@@ -66,7 +66,7 @@ In our evaluation, we use the proxy app to successfully prevent ICC vulnerabilit
 
 The right screen shows an implicit intent is re-constructed and re-invoked. The candidate receiver components are consistent with components from the original app. 
 
-<img src="https://github.com/dummyForSubmission/AppCustomization/blob/master/Taintflow/screen1.png" height="500" width="300"><img src="https://github.com/dummyForSubmission/AppCustomization/blob/master/Taintflow/screen.png" height="500" width="300">
+<img src="https://github.com/ririhedou/AppRewriting/blob/master/Taintflow/screen1.png" height="500" width="300"><img src="https://github.com/ririhedou/AppRewriting/blob/master/Taintflow/screen.png" height="500" width="300">
 
 
 ## Logging for Dynamic Monitoring
@@ -110,11 +110,11 @@ Thus, our approach complements with current dynamic permission with more in-dept
 
 Furthermore, our rewriting can terminate this sink at runtime. A security analyst can stop the invocation of this sink if the sink is very sensitive (e.g., sending messages to premium number). 
 
-<img src="https://github.com/dummyForSubmission/AppCustomization/blob/master/Taintflow/screen2.png" height="500" width="300">
+<img src="https://github.com/ririhedou/AppRewriting/blob/master/Taintflow/screen2.png" height="500" width="300">
 
 ## Conclusion
 
-In this dummy repository, we present supporting materials for demonstrating the security implications of our approach.
+In this repository, we present supporting materials for demonstrating the security implications of our approach.
 
 Still, more engineering effort is required, and future research is needed in this direction.
 
