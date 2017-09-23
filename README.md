@@ -122,7 +122,4 @@ In this repository, we present supporting materials for demonstrating the securi
 
 Still, more engineering effort is required, and future research is needed in this direction.
 
-We wish our effort could facilitate the reproduction of app rewriting and build a more general app rewriting framework.
-
-We also wish our current achievements could encourage more research for scalable and effective rewriting solutions for security.
 
