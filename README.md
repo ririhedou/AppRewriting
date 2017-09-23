@@ -1,4 +1,4 @@
-# App Customization for Security
+# App Rewriting/Transformation for Security
 
 We provide with rewritten apps, taint-flow analysis results for reproduction.
 
