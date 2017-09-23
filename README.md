@@ -1,12 +1,11 @@
 # App Rewriting/Transformation for Security
-
-We provide with rewritten apps, taint-flow analysis results for reproduction.
-
 We rewrite the following apps directly on APK files without source code. We demonstrate the feasibility of our rewriting framework on two well-know benchmarks.
 
 DroisBench: https://github.com/secure-software-engineering/DroidBench
 
 ICC bench: https://github.com/fgwei/ICC-Bench
+
+This site provides with rewritten apps, taint-flow analysis results for reproduction.
 
 **We are currently re-constructing the code of the rewriting framework**
 
