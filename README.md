@@ -6,7 +6,7 @@ We rewrite the following apps directly on APK files without source code. We demo
 
 DroisBench: https://github.com/secure-software-engineering/DroidBench
 
-ICC bench:https://github.com/fgwei/ICC-Bench
+ICC bench: https://github.com/fgwei/ICC-Bench
 
 **We are currently re-constructing the code for rewriting framework**
 
